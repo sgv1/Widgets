@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+      
+    
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:text="@string/botones" />
+        
+        
+        <Button 
+            android:text="@string/hola" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraTextoBoton"/>
+        <Button 
+            android:text="@string/adios" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraTextoBoton"/>
+        <Button 
+            android:text="@string/chao" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraTextoBoton"/>
+    </LinearLayout>
+    
+    
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:text="@string/imageButtonA" />
+        
+        <ImageButton 
+            android:src="@drawable/android_platform"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraInfoImageButton1"/>
+        <ImageButton 
+            android:src="@drawable/camera_phone"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraInfoImageButton2"/>
+        <ImageButton 
+            android:src="@drawable/gps"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraInfoImageButton3"/>
+    </LinearLayout>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:text="@string/imageButtonB" />
+    
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:gravity="center">
+        
+        
+        <ImageButton 
+            android:src="@drawable/button_android"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraInfoImageButton4"/>
+        <ImageButton 
+            android:src="@drawable/button_dialog"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraInfoImageButton5"/>
+        <ImageButton 
+            android:src="@drawable/button_rating_star"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraInfoImageButton6"/>
+    </LinearLayout>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:text="@string/radio_exlusivo" />
+    
+    <RadioGroup 
+        android:id="@+id/radio_group"
+        android:gravity="center_horizontal" 
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        android:orientation="horizontal">
+        <RadioButton 
+            android:id="@+id/radio_button1"
+            android:layout_height="wrap_content" 
+            android:layout_width="wrap_content"
+            android:text="@string/hola"/> 
+        <RadioButton 
+            android:id="@+id/radio_button2"
+            android:layout_height="wrap_content" 
+            android:layout_width="wrap_content"
+            android:text="@string/adios"/>
+        <RadioButton 
+            android:id="@+id/radio_button3"
+            android:layout_height="wrap_content" 
+            android:layout_width="wrap_content"
+            android:text="@string/chao"/>
+    </RadioGroup>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:text="@string/checkboxGroup" />
+    
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+        <CheckBox 
+            android:text="@string/hola" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraTextoBoton"/>
+        <CheckBox 
+            android:text="@string/adios" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraTextoBoton"/>
+        <CheckBox 
+            android:text="@string/chao" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraTextoBoton"/>
+    </LinearLayout>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:text="@string/toogle" />
+    
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+        <!--  Uses the default ON/OFF labels -->
+        <ToggleButton 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraInfoToggleBoton"/> 
+        <ToggleButton 
+            android:textOn="@string/ssl_toggle_on" 
+            android:textOff="@string/ssl_toggle_off"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraInfoToggleBoton"/>
+        <ToggleButton 
+            android:textOn="@string/gps_toggle_on" 
+            android:textOff="@string/gps_toggle_off"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"
+            android:onClick="muestraInfoToggleBoton"/>
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/C:/Users/Montse/AndroidStudioProjects/Widgets/app/src/main/res/layout/buttons.xml -->

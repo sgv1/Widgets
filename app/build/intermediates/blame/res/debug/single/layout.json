@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinners.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\spinners.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buttons.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\buttons.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/spinners.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/layout/spinners.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/activity_list_view.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/layout/activity_list_view.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/buttons.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/layout/buttons.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/activity_grid_view.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/layout/activity_grid_view.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buttons.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\buttons.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/listitem.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/layout/listitem.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buttons.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\buttons.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/activity2_grid_view.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/layout/activity2_grid_view.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinners.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\spinners.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinners.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\spinners.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_content_include.xml"
+    }
+]
