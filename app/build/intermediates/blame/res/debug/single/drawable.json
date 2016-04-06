@@ -24,32 +24,32 @@
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\android_focused.png"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/camera_phone.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/camera_phone.png"
-    },
-    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_star_pressed.png",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\rating_star_pressed.png"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_normal.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\android_normal.png"
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/camera_phone.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/camera_phone.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_normal.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\android_normal.png"
+    },
+    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/android_focused.png",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/android_focused.png"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/android_pressed.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/android_pressed.png"
-    },
-    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_android.xml",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\button_android.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/android_pressed.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/android_pressed.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/rating_star_normal.png",
@@ -64,12 +64,12 @@
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\rating_star_normal.png"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gps.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\gps.png"
-    },
-    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gps.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\gps.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
@@ -108,24 +108,24 @@
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\dialog_normal.png"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_star_focused.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\rating_star_focused.png"
-    },
-    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_platform.png",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\android_platform.png"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_star_focused.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\rating_star_focused.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/dialog_focused.png",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/dialog_focused.png"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_normal.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\dialog_normal.png"
-    },
-    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_dialog.xml",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\button_dialog.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_normal.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\dialog_normal.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
@@ -176,24 +176,24 @@
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\rating_star_normal.png"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/android_normal.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/android_normal.png"
-    },
-    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_focused.png",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\android_focused.png"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/android_normal.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/android_normal.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_android.xml",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\button_android.xml"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/android_platform.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/android_platform.png"
-    },
-    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_star_pressed.png",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\rating_star_pressed.png"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/android_platform.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/android_platform.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/rating_star_pressed.png",
@@ -204,28 +204,28 @@
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\camera_phone.png"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/htc.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/htc.png"
-    },
-    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_pressed.png",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\dialog_pressed.png"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_platform.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\android_platform.png"
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/htc.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/drawable/htc.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_star_focused.png",
-        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\rating_star_focused.png"
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android_platform.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\android_platform.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_star_focused.png",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\src\\main\\res\\drawable\\rating_star_focused.png"
     },
     {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\home\\santi\\Dropbox\\UDL\\2016\\ANDROID\\Widgets\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_dialog.xml",

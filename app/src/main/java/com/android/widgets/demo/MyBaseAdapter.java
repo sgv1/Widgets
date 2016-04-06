@@ -48,7 +48,8 @@ public class MyBaseAdapter extends BaseAdapter {
         MyViewHolder mViewHolder;
 
         if (convertView == null) {
-            convertView = inflater.inflate(R.layout.listitem, parent);
+            inflater = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+            convertView = inflater.inflate(R.layout.listitem, null);
             mViewHolder = new MyViewHolder();
             mViewHolder.textListItem = (TextView) convertView.findViewById(R.id.textListItem);
             mViewHolder.imageListItem = (ImageView) convertView.findViewById(R.id.imageListItem);

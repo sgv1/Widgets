@@ -18,7 +18,6 @@ public final class R {
     }
     public static final class array {
         public static final int entradas_spinner1=0x7f0a0000;
-        public static final int entradas_spinner2=0x7f0a0001;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"

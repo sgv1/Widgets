@@ -58,7 +58,9 @@ public class ListViewActivity extends Activity {
 
         List<ListMarca> tmp = new ArrayList<>();
         String[] vendorArray = getResources().getStringArray(R.array.entradas_spinner1);
-        int[] vendorInteger = getResources().getIntArray(R.array.entradas_spinner2);
+        int[] vendorInteger = {R.drawable.acer, R.drawable.dell, R.drawable.htc,R.drawable.huawei,
+                R.drawable.kyocera, R.drawable.lg, R.drawable.motorola,R.drawable.nexus,
+                R.drawable.samsung, R.drawable.sonyericsson, R.drawable.tmobile, R.drawable.neptune};
         for (int i = 0; i < vendorArray.length; i++) {
             ListMarca lm = new ListMarca();
             lm.setTitle(vendorArray[i]);
