@@ -92,6 +92,10 @@
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/C:\\Users\\Sergi\\Dropbox\\ANDROID\\Widgets\\app\\src\\main\\res\\layout\\buttons.xml"
     },
     {
+        "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/activity_list_views.xml",
+        "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/src/main/res/layout/activity_list_views.xml"
+    },
+    {
         "merged": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
         "source": "/home/santi/Dropbox/UDL/2016/ANDROID/Widgets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml"
     },

@@ -23,9 +23,9 @@ public class ListViewActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_list_view);
+        setContentView(R.layout.activity_list_views);
         mPlantillaMensajeItemSelected = getString(R.string.plantilla_mensaje_listview);
-        ListView listv = (ListView) findViewById(R.id.listView);
+        ListView listv = (ListView) findViewById(R.id.list);
         getDataMarks();
 //        List<String> futureAndroidVendors = getFutureAndroidVendors();
 //        ArrayAdapter<String> listAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, futureAndroidVendors);

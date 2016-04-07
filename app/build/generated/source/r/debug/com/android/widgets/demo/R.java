@@ -1380,8 +1380,8 @@ containing a value of this type.
         public static final int image_button4=0x7f0c004a;
         public static final int image_button5=0x7f0c004b;
         public static final int image_button6=0x7f0c004c;
+        public static final int list=0x7f0c0043;
         public static final int listMode=0x7f0c0009;
-        public static final int listView=0x7f0c0043;
         public static final int listViewText=0x7f0c0042;
         public static final int list_item=0x7f0c0025;
         public static final int middle=0x7f0c0015;
@@ -1450,11 +1450,12 @@ containing a value of this type.
         public static final int activity2_grid_view=0x7f030017;
         public static final int activity_grid_view=0x7f030018;
         public static final int activity_list_view=0x7f030019;
-        public static final int buttons=0x7f03001a;
-        public static final int listitem=0x7f03001b;
-        public static final int main=0x7f03001c;
-        public static final int spinners=0x7f03001d;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001e;
+        public static final int activity_list_views=0x7f03001a;
+        public static final int buttons=0x7f03001b;
+        public static final int listitem=0x7f03001c;
+        public static final int main=0x7f03001d;
+        public static final int spinners=0x7f03001e;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001f;
     }
     public static final class string {
         public static final int Etiqueta_muestrabotones=0x7f05000f;

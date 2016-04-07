@@ -410,8 +410,8 @@ int id image_button3 0x7f0c0049
 int id image_button4 0x7f0c004a
 int id image_button5 0x7f0c004b
 int id image_button6 0x7f0c004c
+int id list 0x7f0c0043
 int id listMode 0x7f0c0009
-int id listView 0x7f0c0043
 int id listViewText 0x7f0c0042
 int id list_item 0x7f0c0025
 int id middle 0x7f0c0015
@@ -476,11 +476,12 @@ int layout abc_simple_dropdown_hint 0x7f030016
 int layout activity2_grid_view 0x7f030017
 int layout activity_grid_view 0x7f030018
 int layout activity_list_view 0x7f030019
-int layout buttons 0x7f03001a
-int layout listitem 0x7f03001b
-int layout main 0x7f03001c
-int layout spinners 0x7f03001d
-int layout support_simple_spinner_dropdown_item 0x7f03001e
+int layout activity_list_views 0x7f03001a
+int layout buttons 0x7f03001b
+int layout listitem 0x7f03001c
+int layout main 0x7f03001d
+int layout spinners 0x7f03001e
+int layout support_simple_spinner_dropdown_item 0x7f03001f
 int string Etiqueta_muestrabotones 0x7f05000f
 int string Etiqueta_muestraspinners 0x7f050010
 int string ListViewText 0x7f050011
